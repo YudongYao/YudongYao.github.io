@@ -1,10 +1,10 @@
 # Site settings
 title: My website
 SEOTitle: Yudong Yao | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/front_back.jpg
 email: yaoyud1990@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, Yudong Yao, X-ray imaing, Phase imaging, Algorithm"
+keyword: "BY, My website, Yudong Yao, X-ray imaing, Phase imaging, Algorithm"
 url: "http://qdldqqiao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/QDLDQQiao/qdldqqiao.github.io.git" # you code repository
