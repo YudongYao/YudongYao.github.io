@@ -13,7 +13,13 @@ tags:
 
 # To record my research
 
-	Machine learning or ptychography
+	This is how to write your own blog. First, go to github account:
+> account name:  my email at IC
+> password: me
+
+    Then go to "qdldqqiao.github.io" and open "_posts" and creat a new file with this form: year-month-day-Name, for example "2018-06-09-Blog"
+
+    In this file, use the format of "Markdown" (It's quit easy) to record your research.
 
 ## Introduction
 
@@ -31,3 +37,5 @@ tags:
 ## conclusion
 
 ## reference
+
+
