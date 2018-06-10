@@ -5,9 +5,9 @@ header-img: img/front_back.jpg
 email: yaoyud1990@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, My website, Yudong Yao, X-ray imaing, Phase imaging, Algorithm"
-url: "http://qdldqqiao.github.io"          # your host, for absolute URL
+url: "http://yudongyao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/QDLDQQiao/qdldqqiao.github.io.git" # you code repository
+github_repo: "https://github.com/YudongYao/YudongYao.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,9 +18,9 @@ sidebar-avatar: /img/angle.jpg      # use absolute URL, seeing it's used in both
 
 # SNS settings
 RSS: false
-zhihu_username:     qiu-qiao-28
-github_username:    QDLDQQiao
-facebook_username:  zhiqiao1989
+
+github_username:    YudongYao
+facebook_username:  YudongYao
 
 
 
